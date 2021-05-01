@@ -1,0 +1,20 @@
+1. Quién inventó el sistema de control de versión y por qué?
+Git es un sistema de control de versiones distribuido que fue creado por Linus Torvalds en 2005 para ser utilizado en el desarrollo del kernel de Linux. A grandes rasgos, un sistema de control de versiones o sistema de gestión del código fuente (SCM, Source Code Management), es un software que permite registrar todos los cambios realizados en el código fuente de un proyecto, de forma que sea sencillo comparar diferentes versiones del mismo, recuperar versiones anteriores y, en general, permitir que una o varias personas desarrollen un mismo proyecto de forma efectiva.
+Originalmente, la comunidad de desarrolladores de Linux utilizaba BitKeeper, un sistema de control de versiones distribuido y comercial, aunque gratuito para proyectos de código abierto. Como el propio Linus Torvalds explica, BitKeeper suponí­a un gran paso adelante comparado con otros SCMs como CVS y Subversion y, sin duda, inspiró muchos de los conceptos en los que se basa git (especialmente el ser un sistema distribuido).
+Sin embargo, el hecho de ser un software propietario y ciertas desavenencias con su creador, Larry McVoy, llevaron a Linus Torvalds a decantarse por buscar un nuevo sistema de control de versiones. Tras probar muchas de las soluciones existentes y descubrir que ninguna cumplí­a con sus requisitos, Torvalds decidió diseñar e implementar su propio sistema de control de versiones. Tan sólo un dí­a después ya habí­a desarrollado las bases de git para poder auto-gestionar el propio código de git en git y, una semana después, ya tení­a una primera versión. Resulta curioso que en la primera mención pública de git, cuando llevaba un par de dí­as de desarrollo, Torvalds describe git no como un sistema de control de versiones sino simplemente como una herramienta de distribución y archivado de ficheros.
+
+2. A quién pertenece actualmente Github y por qué?
+El 4 de junio de 2018, Microsoft anunció la compra de la compañía por un importe de 7500 millones de dólares. Cerrándose la adquisición el 26 de octubre de 2018.
+Desde el nombramiento de Satya Nadella como CEO de Microsoft (sustituyendo al infame Steve Ballmer), la compañía ha adoptado una estrategia nueva, mucho más abierta al mundo del software libre y a la integración con otras plataformas y servicios. Y es, precisamente, el que fuera CEO de Xamarin, Nat Friedman, quien será nuevo CEO de GitHub. Así pues, esta adquisición es, sin duda, un acercamiento a la comunidad más vibrante en el desarrollo de software libre y abierto.
+Además, hay otro motivo de peso: Microsoft Azure. En plena explosión de cloud services (servicios en la nube), con un crecimiento previsto para este año del 21.4%, Microsoft tiene que competir con el líder indiscutible a día de hoy, la todopoderosa Amazon con AWS. Qué mejor forma de hacerlo que estar en contacto directo con los desarrolladores que trabajan en esos servicios, ver sus necesidades y ofrecerles herramientas que faciliten su integración con Azure.
+
+3. Hay otra forma que no sea la terminal para trabajar con Github? 
+Si, además de la terminal está disponible la herramienta GitHub Desktop
+
+
+
+
+Bibliografía:
+    https://www.conasa.es/blog/git-10-anos-controlando-versiones/#:~:text=Hace%20ya%2010%20a%C3%B1os%20Linus,importante%20y%20utilizado%20del%20mundo. 
+
+    https://naukas.com/2018/06/06/microsoft-compra-github/#:~:text=Y%20es%2C%20precisamente%2C%20el%20que,motivo%20de%20peso%3A%20Microsoft%20Azure. 
